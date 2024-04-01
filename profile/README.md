@@ -3,8 +3,9 @@
 ## Important repositories
 
 - [The Specification](https://github.com/fiboa/specification)
+- [List of Datasets](https://github.com/fiboa/data)
 - [List of Extensions / Guide to create Extensions](https://github.com/fiboa/extensions)
-- [List of Software/Tooling](https://github.com/fiboa/software)
+- [List of Software / Tooling](https://github.com/fiboa/software)
   - The most important tooling right now is probably the [CLI: GeoParquet Validation, Conversion, etc.](https://github.com/fiboa/cli) in Python
 - [Data Survey](https://github.com/fiboa/data-survey)
 
