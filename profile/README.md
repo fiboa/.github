@@ -14,5 +14,6 @@
 - Specification related issues => https://github.com/fiboa/specification/issues
 - New extensions or high-level extension discussions => https://github.com/fiboa/extensions/issues
 - New software/tooling or high-level software/tooling discussions => https://github.com/fiboa/software/issues
+- New datasets or data-related issues => https://github.com/fiboa/data/issues
 - Issues related to a specific software or extension => specific repository about the extension or software
 - Discussions that span multiple topics (e.g. specification, tooling, extensions): https://github.com/fiboa/specification/discussions
