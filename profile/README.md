@@ -5,7 +5,7 @@ The Field Boundaries for Agriculture (fiboa) project is focused on making field 
 
 The fiboa specification is the first project to emerge from the Field Boundary Initiative, the first iteration of [Taylor Geospatial Engine’s Innovation Bridge Program](https://tgengine.org/taylor-geospatial-engines-first-innovation-bridge/). The goal of fiboa is to spur collaboration between academia, the commercial industry, NGO’s, and governments towards adopting a common data schema and leveraging AI and earth observation data to create global field boundary datasets for agriculture. fiboa is a non-controversial application that enables developers and data consumers to focus on innovation rather than data schemas and mapping across sources.
 
-## Key features
+## Key Features
 The center of fiboa is a specification for representing field boundary data in GeoJSON & GeoParquet in a standard way, with several optional ‘extensions’ that specify additional attributes. The core data schema of fiboa is quite simple - it is a set of definitions for attribute names and values. The number of attributes in the core is quite small by design. The idea is that most of the ‘interesting’ data about the field will be located in ‘extensions’. 
 
 The bulk of the valuable information will be located in the extensions. There will likely be lots of different types of extensions: some that are generally accepted as the main way to do things in fiboa and widely understood by tools and others that are very niche and not widely used but valuable to a small number of users (e.g. an extension specific to a company or organization to help them better validate their data). 
