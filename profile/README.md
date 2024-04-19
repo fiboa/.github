@@ -16,13 +16,8 @@ You can learn more about the technologies behind the fiboa specification, read t
 - [List of Datasets](https://github.com/fiboa/data)
 - [List of Extensions / Guide to Creating Extensions](https://github.com/fiboa/extensions)
 - [List of Software / Tooling](https://github.com/fiboa/software)
-- [CLI: GeoParquet Validation, Conversion, etc. in Python](https://github.com/fiboa/cli)
+  - [CLI: GeoParquet Validation, Conversion, etc. in Python](https://github.com/fiboa/cli)
 - [Data Survey](https://github.com/fiboa/data-survey) 
-
-## License
-One of the goals of fiboa is to make field boundary data openly available in a unified way. 
-- [Citation Details (as CFF file)](https://github.com/fiboa/specification/blob/main/CITATION.cff)
-- [License](https://github.com/fiboa/specification/blob/main/LICENSE)
 
 ## Developer Communication Channels
 The fiboa community strives to provide a welcoming and transparent environment for all of the project’s participants. You can find additional information about our community’s best practices and collaborative development processes below:
@@ -30,10 +25,20 @@ The fiboa community strives to provide a welcoming and transparent environment f
 - [Contribution Guideline](https://github.com/fiboa/specification/blob/main/CONTRIBUTING.md)
 - [Development and Release Process](https://github.com/fiboa/specification/blob/main/process.md)
 
-The fiboa developer community has a number of communication channels available for discussion and collaboration. We encourage you to utilize our Slack for general and administrative questions. You’re also welcome to attend the bi-weekly Zoom meetings where the research and developer community shares updates, discusses the roadmap, and gives the occasional live demonstration. To get on the email list, please sign up for the [fiboa Google Group](https://groups.google.com/a/tgengine.org/g/fiboa). Joining this Google Group will also get you a calendar invite for the bi-weekly meetings as well as any other general fiboa meetings.
-- Specification related issues => https://github.com/fiboa/specification/issues
-- New extensions or high-level extension discussions => https://github.com/fiboa/extensions/issues
-- New software/tooling or high-level software/tooling discussions => https://github.com/fiboa/software/issues
-- New datasets or data-related issues => https://github.com/fiboa/data/issues
-- Discussions that span multiple topics (e.g. specification, tooling, extensions): https://github.com/fiboa/specification/discussions
+The fiboa developer community has a number of communication channels available for discussion and collaboration.
+
+We encourage you to utilize our [Slack](https://cloudnativegeo.slack.com/archives/C06ET015VGS) for general and administrative questions.
+You’re also welcome to attend the bi-weekly Zoom meetings where the research and developer community shares updates, discusses the roadmap, and gives the occasional live demonstration.
+To get on the email list, please sign up for the [fiboa Google Group](https://groups.google.com/a/tgengine.org/g/fiboa).
+Joining this Google Group will also get you a calendar invite for the bi-weekly meetings as well as any other general fiboa meetings.
+
+- [Slack](https://cloudnativegeo.slack.com/archives/C06ET015VGS)
+- [Google Group](https://groups.google.com/a/tgengine.org/g/fiboa)
+- Open Discussions and issue trackers for specific topics:
+  - [Specification related issues](https://github.com/fiboa/specification/issues)
+  - [New extensions or high-level extension discussions](https://github.com/fiboa/extensions/issues)
+  - [New software/tooling or high-level software/tooling discussions](https://github.com/fiboa/software/issues)
+  - [New datasets or data-related issues](https://github.com/fiboa/data/issues)
+  - [Discussions that span multiple topics (e.g. specification, tooling, extensions)](https://github.com/fiboa/specification/discussions)
+  - Discussions and issues around specific tooling or extensions goes into the [corresponding repositories](https://github.com/orgs/fiboa/repositories)
 
