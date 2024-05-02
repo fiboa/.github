@@ -18,13 +18,13 @@ You can learn more about the technologies behind the fiboa specification, read t
   - [CLI: GeoParquet Validation, Conversion, etc. in Python](https://github.com/fiboa/cli)
 - [Data Survey](https://github.com/fiboa/data-survey) 
 
-## Developer Communication Channels
+## Community Communication Channels
 The fiboa community strives to provide a welcoming and transparent environment for all of the project’s participants. You can find additional information about our community’s best practices and collaborative development processes below:
 - [Code of Conduct](https://github.com/fiboa/specification/blob/main/CODE_OF_CONDUCT.md)
 - [Contribution Guideline](https://github.com/fiboa/specification/blob/main/CONTRIBUTING.md)
 - [Development and Release Process](https://github.com/fiboa/specification/blob/main/process.md)
 
-The fiboa developer community has a number of communication channels available for discussion and collaboration.
+The fiboa community has a number of communication channels available for discussion and collaboration.
 
 We encourage you to utilize our [Slack](https://cloudnativegeo.slack.com/archives/C06ET015VGS) for general and administrative questions.
 You’re also welcome to attend the bi-weekly Zoom meetings where the research and developer community shares updates, discusses the roadmap, and gives the occasional live demonstration.
