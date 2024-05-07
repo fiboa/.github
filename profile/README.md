@@ -11,6 +11,7 @@ There will likely be lots of different types of extensions: some that are genera
 You can learn more about the technologies behind the fiboa specification, read the full specification text, and explore available open data sets and extensions at the links below.
 
 - [The Specification](https://github.com/fiboa/specification)
+- Blog posts [Introducting Fiboa](https://cloudnativegeo.org/blog/2024/04/introducing-fiboa/), the [Core Specification & Extensions](https://cloudnativegeo.org/blog/2024/04/fiboa-core-specification-extensions/) & the [Ecosystem](https://cloudnativegeo.org/blog/2024/05/fiboa-the-ecosystem/).
 - [List of Tutorials](https://github.com/fiboa/tutorials)
 - [List of Datasets](https://github.com/fiboa/data)
 - [List of Extensions / Guide to Creating Extensions](https://github.com/fiboa/extensions)
