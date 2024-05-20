@@ -32,6 +32,7 @@ You’re also welcome to attend the bi-weekly Zoom meetings where the research a
 To get on the email list, please sign up for the [fiboa Google Group](https://groups.google.com/a/tgengine.org/g/fiboa).
 Joining this Google Group will also get you a calendar invite for the bi-weekly meetings as well as any other general fiboa meetings.
 
+- [Bi-Weekly Call Notes](https://docs.google.com/document/d/1tzW9NtHfSM98hBbt-H97-AOf7ijOknWfkgLhT6H9kHQ/edit?usp=sharing)
 - [Slack](https://cloudnativegeo.slack.com/archives/C06ET015VGS)
 - [Google Group](https://groups.google.com/a/tgengine.org/g/fiboa)
 - Open Discussions and issue trackers for specific topics:
